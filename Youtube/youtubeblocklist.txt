@@ -52,6 +52,7 @@
 0.0.0.0 r1---sn-o097znlk.googlevideo.com
 0.0.0.0 r1---sn-o097znlr.googlevideo.com
 0.0.0.0 r1---sn-p5qs7n7d.googlevideo.com
+0.0.0.0 r1---sn-p5qlsndr.googlevideo.com
 0.0.0.0 r1---sn-p5qs7n7e.googlevideo.com
 0.0.0.0 r1---sn-q4fl6n7d.googlevideo.com
 0.0.0.0 r1---sn-q4fl6nsl.googlevideo.com
@@ -102,9 +103,12 @@
 0.0.0.0 r2---sn-o097znlk.googlevideo.com
 0.0.0.0 r2---sn-o097znlr.googlevideo.com
 0.0.0.0 r2---sn-p5qlsndr.googlevideo.com
+0.0.0.0 r2---sn-p5qlsnrl.googlevideo.com
 0.0.0.0 r2---sn-p5qlsnz6.googlevideo.com
 0.0.0.0 r2---sn-p5qs7n76.googlevideo.com
 0.0.0.0 r2---sn-p5qs7n7e.googlevideo.com
+0.0.0.0	r2---sn-p5qs7nek.googlevideo.com
+0.0.0.0 r2---sn-p5qs7nsk.googlevideo.com
 0.0.0.0 r2---sn-q4f7sn7s.googlevideo.com
 0.0.0.0 r2---sn-q4f7sn7z.googlevideo.com
 0.0.0.0 r2---sn-q4fl6ner.googlevideo.com
@@ -319,6 +323,7 @@
 0.0.0.0 r6---sn-qxo7rn7e.googlevideo.com
 0.0.0.0 r6---sn-vgqsenlz.googlevideo.com
 0.0.0.0 s.googlevideo.com
+0.0.0.0 s.youtube.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 youtu.be
 0.0.0.0 youtube-nocookie.com
@@ -328,6 +333,13 @@
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 ytimg.com
+0.0.0.0 i.ytimg.com
 0.0.0.0 ytimg.l.google.com
 0.0.0.0 z.googlevideo.com
-0.0.0.0 
+0.0.0.0 r5---sn-p5qs7nsr.googlevideo.com
+0.0.0.0 r5---sn-p5qs7n7z.googlevideo.com
+0.0.0.0 r2---sn-p5qlsndr.googlevideo.com
+0.0.0.0 r1---sn-p5qlsnzd.googlevideo.com
+0.0.0.0 r5---sn-p5qs7ned.googlevideo.com
+0.0.0.0 r3---sn-p5qs7nsk.googlevideo.com
+0.0.0.0 r4---sn-p5qs7n7z.googlevideo.com
