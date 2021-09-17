@@ -1,779 +1,780 @@
 # This blocklist blocks Mobile App Ads Traffic
 #
-# Date: 15 April 2020 13:11:00 (UTC)
-# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MobileAppAds/appadsblocklist.txt
-# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# Date: 17 September 2021 01:28:00 (EST)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/julian-perge/socialblocklists/master/MobileAppAds/appadsblocklist.txt
+# Project home page: https://github.com/julian-perge/socialblocklists
 # ===============================================================
 
 
-01.static.xsf.ximxim.com
-02.static.xsf.ximxim.com
-04.static.xsf.ximxim.com
-1681.engine.mobileapptracking.com
-1phads.com
-201205igp.gameloft.com
-2mdn.net
-2o7.net
-360yield.com
-4chan-ads.org
-4dsply.com
-5-8-1-ios.appload.ingest.crittercism.com
-5-8-10-android.appload.ingest.crittercism.com
-578756.gameloft.com
-a.applvn.com
-a.jumptap.com
-a1fd.playfabapi.com
-aatkit.com
-aax-eu.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
-aax-us-pdx.amazon-adsystem.com
-aax.amazon-adsystem.com
-abtest.mistat.xiaomi.com
-accesstrade.net
-ackak.com
-acompli.helpshift.com
-action.adzcore.com
-ad-center.com
-ad-stir.com
-ad-sys.com
-ad.adworx.at
-ad.doubleclick.net
-ad.fyber.angsrvr.com
-ad.prismamediadigital.com
-ad120m.com
-ad127m.com
-ad131m.com
-ad132m.com
-ad2play.ftv-publicite.fr
-ad360.vn
-ad4game.com
-adacts.com
-adadvisor.net
-adap.tv
-adapi.addealsnetwork.com
-adblade.com
-adbooth.com
-adbooth.net
-adbuddiz.com
-adc3-launch.adcolony.com
-adcash.com
-adcel.vrvm.com
-adcolony.com
-addthis.com
-ade.googlesyndication.com
-adelva.com
-adexprt.com
-adfalcon.com
-adfonic.net
-adform.com
-adform.net
-adformdsp.net
-adgear.com
-adhese.com
-adinch.com
-adinfuse.com
-adition.com
-adjuggler.net
-adjust.com
-adk2.co
-adk2x.com
-adkeeper.com
-adlog.flurry.com
-adman.gr
-admarvel.com
-admaster.com.cn
-admaster.net
-admeasures.com
-admeta.com
-admicro.vn
-admixer.net
-admngronline.com
-admob.com
-admobi.ru
-admost.com
-admtpmp123.com
-admtpmp124.com
-admtpmp127.com
-adnetworkperformance.com
-adnium.com
-adnotch.com
-adnow.com
-adnxs.com
-adocean.pl
-adorika.net
-adotube.com
-adpdx.com
-adproxy.fyber.com
-adroll.com
-adrotator.se
-ads-cloud.rovio.com
-ads.api.vungle.com
-ads.bulldogcpi.com
-ads.chartboosts.com
-ads.flurry.com
-ads.mopub.com
-ads.tapdaq.com
-ads.twitter.com
-ads.yahoo.com
-ads3.fingersoft.net
-adserver.snapads.com
-adserver.yahoo.com
-adservice.google.de
-adsfactor.net
-adshost2.com
-adsinstant.com
-adsmarket.com
-adsmogo.mobi
-adsmogo.net
-adsnative.com
-adspeed.com
-adspending01.bwnet.com.tw
-adspirit.de
-adsrocket.net
-adsupply.com
-adsvideo1.addealsnetwork.com
-adsymptotic.com
-adtailor.com
-adtaily.com
-adtaily.pl
-adtaxinetworks.com
-adtech.de
-adtechus.com
-adtilt.com
-adtimaserver.vn
-adtoma.com
-adtop.com
-adtrace.org
-adver.mobi
-adversal.com
-adverserve.net
-adverticum.net
-advertising.com
-advertserve.com
-advg.jp
-advolution.de
-adwhirl.com
-adzerk.com
-adzerk.net
-adztec.com
-affiliate.fc2.com
-aimatch.com
-aimg.fc2.com
-airpush.com
-akncdn.com
-alea.adam.daum.net
-algovid.com
-alog.umeng.com
-alog.umengcloud.com
-alphonso.tv
-altrooz.com
-am.myapps123.com
-amazemobilemedia.com
-amobee.com
-analysis2.chartboosts.com
-analytics-server.gimbal.com
-analytics.app-adforce.jp
-andomedia.com
-api-02.360dialog.io
-api-gdpr.voodoo-tech.io
-api-rewarded-video.fyber.com
-api.ad.xiaomi.com
-api.branch.io
-api.gameanalytics.com
-api.leanplum.com
-api.massrelevance.com
-api.pubnative.net
-api.smbeat.jp
-api.uca.cloud.unity3d.com
-api.unthem.com
-app-adforce.jp
-app-analytics.snapchat.com
-app-measurement.com
-app.adjust.com
-app.top1mobiad1.com
-appads.com
-appcloud.mcafee.com
-appflood.com
-applifier.com
-applovin.com
-applvn.com
-appnext.com
-appodeal.com
-apprupt.com
-appsdt.com
-appserver-ap.com
-appshelf.ttpsdk.info
-appspot-preview.l.google.com
-apptimize.com
-as1.abigames.com.vn
-asd.ssmobi.top
-ase.adserver.snapads.com
-asp.animelab.com
-asset1.sponsorpay.com
-atdmt.com
-atedra.com
-atemda.com
-atlassbx.com
-atwola.com
-avocarrot.com
-awem.zendesk.com
-awempire.com
-balancer.devtodev.com
-bannerflow.com
-bbelements.com
-bbirdsv.xsf.ximxim.com
-bcfads.com
-bead-ad.com
-beap-bc.yahoo.com
-bebi.com
-bestmobileapps.mobi
-bidvertiser.com
-bigmath.vn
-billytesting.com
-bms.zeptolab.com
-bnmla.com
-bnserving.com
-boostads.site
-bounceexchange.com
-brightroll.com
-brightroll.de
-brucelead.com
-btrll.com
-buysellads.com
-buzzcity.net
-c.amazon-adsystem.com
-c.bebi.com
-c.jsrdn.com
-carbonads.com
-carbonads.net
-castplatform.com
-cb-cdn.com
-cdn.applift.com
-cdn.media.amp.avai.com
-cdn.millennialmedia.com
-cdn.playwire.com
-cdn.video.playwire.com
-cdn2.inner-active.mobi
-cf.iadsdk.apple.com
-chango.com
-chartboost.com
-chefkoch-einkaufsliste.firebaseapp.com
-chitika.net
-cj.com
-clickfuse.com
-clickmngr.com
-clickterra.net
-client-api.matchinguu.com
-client.rave-api.com
-clk1004.com
-clkdeals.com
-clkmon.com
-clkrev.com
-clmbtech.com
-cls.mireyn.ru
-cold-cold-freezing.com
-com.tenjin.ios.api
-combine.urbanairship.com
-config.inmobi.com
-config.ioam.de
-connect.decknetwork.net
-connect.tapjoy.com
-content-ad.net
-content.ad
-contentabc.com
-control.smbeat.jp
-conversantmedia.com
-cp.pushwoosh.com
-cpmstar.com
-crashfevergbl.onelink.me
-crashlogs.whatsapp.net
-crashlytics.com
-criteo.com
-criteo.net
-crosspromo.zeptolab.com
-crwdcntrl.net
-cst.innogames.de
-cubecdn.net
-cw.addthis.com
-cxense.com
-cxpublic.com
-d.applvn.com
-damoh.spiegel.de
-data.flurry.com
-data.madovergames.com
-de.reimageplus.com
-de17a.com
-debug.aerserv.com
-delivery.brokerbabe.com
-delivery.trafficforce.com
-dev.appboy.com
-device-api.urbanairship.com
-device-provisioning.googleapis.com
-device.zhiliaoapp.com
-directrev.com
-dlski.space
-dotandad.com
-dotomi.com
-doubleciick.net
-doubleclick.net
-doubleverify.com
-dra.amazon-adsystem.com
-drnxs.com
-e.crashlytics.com
-eacdn.com
-eclick.vn
-eclkmpsa.com
-ecpmrocks.com
-elb.qublixaws.com
-embedly.massrelevance.com
-emediate.dk
-emediate.eu
-emediate.se
-engine.a.redditmedia.com
-engine.fyber.com
-engine.mobileapptracking.com
-engine.voodoo-ads.io
-epom.com
-euc.adserver.snapads.com
-europacash.com
-euw.adserver.snapads.com
-events.appsflyer.com
-events3.adcolony.com
-events3alt.adcolony.com
-everestads.net
-exelator.com
-exoclick.com
-exponential.com
-eyewonder.com
-farmheroesmobile.king.com
-fastclick.net
-fdams.qublixaws.com
-fineboost-loghub.ap-southeast-1.log.aliyuncs.com
-firstimpression.io
-flashtalking.com
-flipboard.com
-fus.yad2.co.il
-fusion.dn.se
-fwmrm.net
-fyber.com
-galaxyattack-de0bd.firebaseio.com
-gate.hockeyapp.net
-gce-sc.bidswitch.net
-gcs.sc-cdn.net
-gemini.yahoo.com
-globaltraffico.com
-go.bebi.com
-googleads.g.doubleclick.net
-googleadservices.com
-googletagservices.com
-graph.accountkit.com
-graph.instagram.com
-greystripe.com
-growingtechapp.bid
-gsp-aeu004-se02.gamesparks.net
-gsp-aeu004-se06.gamesparks.net
-gsp-aeu004-se29.gamesparks.net
-gsp-aeu004-se30.gamesparks.net
-gsp-aeu004-se31.gamesparks.net
-gumgum.com
-h2.msn.com
-heise.nuggad.net
-heyzap.com
-hkg1.aastocks.com
-hockeyapp.net
-holder.com.ua
-hot-mob.com
-hotwords.com
-houseads.ttpsdk.info
-housextriertst.bid
-i-stream.pl
-i.singular.net
-i.w.inmobi.com
-iadsdk.apple.com
-iconpeak.com
-id.google.de
-idiagnostics.apple.com
-idiagnostics.apple.com.akadns.net
-igp06.gameloft.com
-igpiphone.gameloft.com
-image.click.livedoor.com
-imedia.cz
-img.onesignal.com
-impressions.api.miyuki.mobi
-info.a7.org
-infolinks.com
-ingameads.gameloft.com
-inmobi.com
-inmobicdn.com
-inmobicdn.net
-inner-active.com
-inner-active.mobi
-innovid.com
-insightexpressai.com
-integral-marketing.com
-intellitxt.com
-intermarkets.net
-interseek.si
-ir-na.amazon-adsystem.com
-js.stripe.com
-juicyads.com
-kau.li
-ketads.com
-ketchapp.org
-keywordblocks.com
-kid-control.com
-kiip.me
-kimia.es
-kixer.com
-kochava.com
-komoona.com
-lduhtrp.net
-leadbolt.com
-leadbolt.net
-leadboltapps.net
-leadzu.com
-leanplum.com
-lfstmedia.com
-liftoff.io
-ligatus.com
-lijit.com
-live.chartboost.com
-live.direct.ly
-liveadexchanger.com
-liveintent.com
-liveops-prod-us-east-1-cdn.coem.aps-awemprod2.com
-liveops.coem-ages.com
-liverail.com
-lockerdome.com
-log.musical.ly
-logs.locarta.co
-lps.innogames.com
-lps.innogamescdn.com
-m.quantcount.com
-m.stripe.com
-m.stripe.network
-m2pub.com
-mads.com
-madsone.com
-madvertise.de
-manage.com
-marktools.awem.com
-marsads.com
-massrelevance.com
-matchinguu.com
-mbe-cdn.fyber.com
-mdotm.com
-med.heyzap.com
-media-api.maio.jp
-media.net
-medialets.com
-medialytics.com
-mediaplex.com
-medyanetads.com
-mellowads.com
-mgid.com
-misterbell.com
-mng-ads.com
-moatads.com
-mob-server.com
-mobclix.com
-mobfox.com
-mobile.aws.weather.com
-mobile.bet365.com
-mobileapptracking.com
-mobilefuse.com
-mobilefuse.net
-mobiletheory.com
-mobiright.com
-mobusi.com
-mobytrks.com
-mocean.mobi
-mojiva.com
-mopub.com
-movad.de
-movi11.com
-mparticle.com
-mpnrs.com
-ms.applovin.com
-ms.applvn.com
-msads.net
-mtburn.com
-mydas.mobi
-n208adserv.com
-nexage.com
-nkkl.adj.st
-nspmotion.com
-nuggad.net
-om.forgeofempires.com
-omax.admarvel.com
-omniture.com
-onclasrv.com
-onclickads.net
-onclkds.com
-onesignal.com
-openclick.com
-openvideoads.com
-openvideoads.org
-openx.com
-openx.jp
-openx.net
-openx.org
-openxenterprise.com
-openxmarket.jp
-opt.ximad.com
-ordickywarive.bid
-otherlevels.com
-ox-d.advanceweb.com
-ox-d.majorgeeks.com
-padsdel.com
-pagead.googlesyndication.com
-pagead1.googlesyndication.com
-pagead2.googlesyndication.com
-pagead3.googlesyndication.com
-performancehorizon.com
-pflexads.com
-pixels.asia
-platform.massrelevance.com
-player.glomex.com
-playhaven.com
-playnomics.net
-plista.com
-policy.bigfishgames.com
-popads.net
-popadscdn.net
-postback.pointwise.co
-postrelease.com
-potterheadunited.com
-powerad.ai
-print.theyeshivaworld.info
-projectwonderful.com
-promo.webpayments.closeby.internet.apps.samsung.com
-propellerads.com
-propellerpops.com
-pub.sapo.pt
-pubads.g.doubleclick.net
-pubdirecte.com
-pubmatic.com
-pushnative.com
-pushwoosh.com
-q4mn.adj.st
-quantcount.com
-questionmarket.com
-rad.msn.com
-rarenok.biz
-readserver.net
-redintelligence.net
-redir.bebi.com
-redirectnative.com
-redtram.com
-reklamport.com
-reporo.net
-reports.crashlytics.com
-revcontent.com
-revmob.com
-revsci.net
-rewarded-video.fyber.com
-rink.hockeyapp.net
-rnmd.net
-rt.360dialog.io
-rt.applovin.com
-rtbpop.com
-rubiconproject.com
-s-usc1c-nss-223.firebaseio.com
-s-usc1c-nss-233.firebaseio.com
-s-usc1c-nss-249.firebaseio.com
-s.amazon-adsystem.com
-s1.2mdn.net
-s7.addthis.com
-s8.kid-control.com
-sa.entireweb.com
-sbs-ad.com
-sc-analytics.appspot.com
-scanscout.com
-sdk-configuration.gimbal.com
-sdk.hockeyapp.net
-sdktm.w.inmobi.com
-securepubads.g.doubleclick.net
-sejs.moatads.com
-sekindo.com
-servedbyopenx.com
-service.fyber.com
-service.game-mode.net
-services.coem.awem.com
-servicesupport.hicloud.com
-serving-sys.com
-setting.adzcore.com
-settings.crashlytics.com
-sharethrough.com
-simonscatpoptime.tactilews.com
-smaato.com
-smaato.net
-smartadserver.com
-smartclip.net
-snapmobile.asia
-soundwave.mobile.yahoo.com
-spaceshooter.rocketstudio.com.vn
-sponsorpay.com
-ssl.google-analytics.com
-st.bebi.com
-startapp.com
-startappexchange.com
-startappservice.com
-statgw.devtodev.com
-stats.appsflyer.com
-stats.appwork.org
-stats.g.doubleclick.net
-stats.gc.apple.com
-stjjp.msn.com
-stripensrq.global.ssl.fastly.net
-supersonicads-a.akamaihd.net
-supersonicads.com
-support.awem.com
-swrve.com
-t.appsflyer.com
-taboola.com
-taboolasyndication.com
-tapjoy.com
-tapjoyads.com
-teads.tv
-telemetry.sdk.inmobi.com
-terraclicks.com
-test-ads.tapdaq.com
-test-awem-com.s3-website-us-east-1.amazonaws.com
-thekingofmobapp.bid
-thind-gke-euw.prd.data.corp.unity3d.com
-tom.itv.com
-tr.snapchat.com
-track.barcoo.com
-tracker.fyber.com
-trackers.voodoo-analytics.io
-tracking.adspreemedia.com
-tracking.i2w.io
-tradeadexchange.com
-tradedoubler.com
-trafficfactory.biz
-trafficgate.net
-traffichaus.com
-trafficjunky.com
-trafficjunky.net
-trafficposse.com
-traffpartners.com
-trafmag.com
-transpera.com
-trck.bebi.com
-tremorhub.com
-tremormedia.com
-tribalfusion.com
-trk.pinterest.com
-turn.com
-uauniverse.com
-ucweb.com
-udc.msn.com
-uimserv.net
-ultraadserver.com
-unityads.unity3d.com
-untd.com
-uop.umeng.com
-upsight-api.com
-usc.adserver.snapads.com
-user-agent-tracker.herokuapp.com
-utraffic.engine.adglare.net
-valuecommerce.com
-vaxadserver.azurewebsites.net
-vdopia.com
-veeseo.com
-video.fyber.com
-videoads-cloud.rovio.com
-videoplaza.com
-videoplaza.tv
-view-prod.ad.singular.net
-view.adjust.com
-vserv.mobi
-vungle.com
-wafmedia3.com
-wafmedia5.com
-wbdds.jeuxvideo.com
-wd.adcolony.com
-weblockapp.com
-widespace.com
-wigetmedia.com
-ws-dot-web94p.appspot.com
-ws.tapjoyads.com
-wsback-apps.presage.io
-www.alphonso.tv
-www.bebi.com
-www.bestmobileapps.mobi
-www.fqtag.com
-www.googleadservices.com
-www.leanplum.com
-www.onclickclear.com
-www.smbeat.jp
-wwwpromoter.com
-wywy.com
-ximad.com
-xml.boffoads.com
-xpromo-cdn.qublixaws.com
-xtendmedia.com
-yen.appsfire.net
-yieldmanager.com
-yieldmo.com
-yoc.mobi
-yumenetworks.com
-z.moatads.com
-zedo.com
-zestads.com
-zestadz.com
-ziiporn.com
-zucks.co.jp
-zucks.net
-zumobi.com
-zwaar.org
-service.miyuki.mobi
-console.miyuki.mobi
-sdk.hockeyapp.net
-www.360dialog.com
-rt.360dialog.io
-collect.tealiumiq.com
-datacloud.tealiumiq.com
-my.tealiumiq.com
-w.usabilla.com
-www.mobilekeyservice.com
-app-measurement.com
-my.mobfox.com
-alogs.starbolt.io
-alkutbay.starbolt.io
-alkutbay.starbolt.io
-sdk.starbolt.io
-sdk.starbolt.io
-static.starbolt.io
-static.starbolt.io
-dm.starbolt.io
-dm.starbolt.io
-z.moatads.com
-tracker.mtrtb.com
-config.inmobi.com
-config.inmobi.cn
-dock.inmobi.com
-telemetry.sdk.inmobi.com
-www.inmobi.com
-sdkm.w.inmobi.com
-sdktm.w.inmobi.com
-crash-metrics.sdk.inmobi.com
-i.l.inmobidnc.net
-i.w.inmobi.com
-inmobi.com
-tml.clmbtech.com
-ade.clmbtech.com
-ase.clmbtech.com
-edgekey.net
-bugsnag.com
-notify.bugsnag.com
-www.measurementlab.net
-user.gini.net
-sizchip.siz.de
-sex-and-flirt.com
-redshell.io
-api.redshell.io
-treasuredata.com
-api.treasuredata.com
-
+0.0.0.0 01.static.xsf.ximxim.com
+0.0.0.0 02.static.xsf.ximxim.com
+0.0.0.0 04.static.xsf.ximxim.com
+0.0.0.0 1681.engine.mobileapptracking.com
+0.0.0.0 1phads.com
+0.0.0.0 201205igp.gameloft.com
+0.0.0.0 2mdn.net
+0.0.0.0 2o7.net
+0.0.0.0 360yield.com
+0.0.0.0 4chan-ads.org
+0.0.0.0 4dsply.com
+0.0.0.0 5-8-1-ios.appload.ingest.crittercism.com
+0.0.0.0 5-8-10-android.appload.ingest.crittercism.com
+0.0.0.0 578756.gameloft.com
+0.0.0.0 a.applvn.com
+0.0.0.0 a.jumptap.com
+0.0.0.0 a1fd.playfabapi.com
+0.0.0.0 aatkit.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-us-pdx.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 abtest.mistat.xiaomi.com
+0.0.0.0 accesstrade.net
+0.0.0.0 ackak.com
+0.0.0.0 acompli.helpshift.com
+0.0.0.0 action.adzcore.com
+0.0.0.0 ad-center.com
+0.0.0.0 ad-stir.com
+0.0.0.0 ad-sys.com
+0.0.0.0 ad.adworx.at
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.fyber.angsrvr.com
+0.0.0.0 ad.prismamediadigital.com
+0.0.0.0 ad120m.com
+0.0.0.0 ad127m.com
+0.0.0.0 ad131m.com
+0.0.0.0 ad132m.com
+0.0.0.0 ad2play.ftv-publicite.fr
+0.0.0.0 ad360.vn
+0.0.0.0 ad4game.com
+0.0.0.0 adacts.com
+0.0.0.0 adadvisor.net
+0.0.0.0 adap.tv
+0.0.0.0 adapi.addealsnetwork.com
+0.0.0.0 adblade.com
+0.0.0.0 adbooth.com
+0.0.0.0 adbooth.net
+0.0.0.0 adbuddiz.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 adcash.com
+0.0.0.0 adcel.vrvm.com
+0.0.0.0 adcolony.com
+0.0.0.0 addthis.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adelva.com
+0.0.0.0 adexprt.com
+0.0.0.0 adfalcon.com
+0.0.0.0 adfonic.net
+0.0.0.0 adform.com
+0.0.0.0 adform.net
+0.0.0.0 adformdsp.net
+0.0.0.0 adgear.com
+0.0.0.0 adhese.com
+0.0.0.0 adinch.com
+0.0.0.0 adinfuse.com
+0.0.0.0 adition.com
+0.0.0.0 adjuggler.net
+0.0.0.0 adjust.com
+0.0.0.0 adk2.co
+0.0.0.0 adk2x.com
+0.0.0.0 adkeeper.com
+0.0.0.0 adlog.flurry.com
+0.0.0.0 adman.gr
+0.0.0.0 admarvel.com
+0.0.0.0 admaster.com.cn
+0.0.0.0 admaster.net
+0.0.0.0 admeasures.com
+0.0.0.0 admeta.com
+0.0.0.0 admicro.vn
+0.0.0.0 admixer.net
+0.0.0.0 admngronline.com
+0.0.0.0 admob.com
+0.0.0.0 admobi.ru
+0.0.0.0 admost.com
+0.0.0.0 admtpmp123.com
+0.0.0.0 admtpmp124.com
+0.0.0.0 admtpmp127.com
+0.0.0.0 adnetworkperformance.com
+0.0.0.0 adnium.com
+0.0.0.0 adnotch.com
+0.0.0.0 adnow.com
+0.0.0.0 adnxs.com
+0.0.0.0 adocean.pl
+0.0.0.0 adorika.net
+0.0.0.0 adotube.com
+0.0.0.0 adpdx.com
+0.0.0.0 adproxy.fyber.com
+0.0.0.0 adroll.com
+0.0.0.0 adrotator.se
+0.0.0.0 ads-cloud.rovio.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 ads.bulldogcpi.com
+0.0.0.0 ads.chartboosts.com
+0.0.0.0 ads.flurry.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 ads.tapdaq.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads3.fingersoft.net
+0.0.0.0 adserver.snapads.com
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 adservice.google.de
+0.0.0.0 adsfactor.net
+0.0.0.0 adshost2.com
+0.0.0.0 adsinstant.com
+0.0.0.0 adsmarket.com
+0.0.0.0 adsmogo.mobi
+0.0.0.0 adsmogo.net
+0.0.0.0 adsnative.com
+0.0.0.0 adspeed.com
+0.0.0.0 adspending01.bwnet.com.tw
+0.0.0.0 adspirit.de
+0.0.0.0 adsrocket.net
+0.0.0.0 adsupply.com
+0.0.0.0 adsvideo1.addealsnetwork.com
+0.0.0.0 adsymptotic.com
+0.0.0.0 adtailor.com
+0.0.0.0 adtaily.com
+0.0.0.0 adtaily.pl
+0.0.0.0 adtaxinetworks.com
+0.0.0.0 adtech.de
+0.0.0.0 adtechus.com
+0.0.0.0 adtilt.com
+0.0.0.0 adtimaserver.vn
+0.0.0.0 adtoma.com
+0.0.0.0 adtop.com
+0.0.0.0 adtrace.org
+0.0.0.0 adver.mobi
+0.0.0.0 adversal.com
+0.0.0.0 adverserve.net
+0.0.0.0 adverticum.net
+0.0.0.0 advertising.com
+0.0.0.0 advertserve.com
+0.0.0.0 advg.jp
+0.0.0.0 advolution.de
+0.0.0.0 adwhirl.com
+0.0.0.0 adzerk.com
+0.0.0.0 adzerk.net
+0.0.0.0 adztec.com
+0.0.0.0 affiliate.fc2.com
+0.0.0.0 aimatch.com
+0.0.0.0 aimg.fc2.com
+0.0.0.0 airpush.com
+0.0.0.0 akncdn.com
+0.0.0.0 alea.adam.daum.net
+0.0.0.0 algovid.com
+0.0.0.0 alog.umeng.com
+0.0.0.0 alog.umengcloud.com
+0.0.0.0 alphonso.tv
+0.0.0.0 altrooz.com
+0.0.0.0 am.myapps123.com
+0.0.0.0 amazemobilemedia.com
+0.0.0.0 amobee.com
+0.0.0.0 analysis2.chartboosts.com
+0.0.0.0 analytics-server.gimbal.com
+0.0.0.0 analytics.app-adforce.jp
+0.0.0.0 andomedia.com
+0.0.0.0 api-02.360dialog.io
+0.0.0.0 api-gdpr.voodoo-tech.io
+0.0.0.0 api-rewarded-video.fyber.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.branch.io
+0.0.0.0 api.gameanalytics.com
+0.0.0.0 api.leanplum.com
+0.0.0.0 api.massrelevance.com
+0.0.0.0 api.pubnative.net
+0.0.0.0 api.smbeat.jp
+0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 api.unthem.com
+0.0.0.0 app-adforce.jp
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app-measurement.com
+0.0.0.0 app.adjust.com
+0.0.0.0 app.top1mobiad1.com
+0.0.0.0 appads.com
+0.0.0.0 appcloud.mcafee.com
+0.0.0.0 appflood.com
+0.0.0.0 applifier.com
+0.0.0.0 applovin.com
+0.0.0.0 applvn.com
+0.0.0.0 appnext.com
+0.0.0.0 appodeal.com
+0.0.0.0 apprupt.com
+0.0.0.0 appsdt.com
+0.0.0.0 appserver-ap.com
+0.0.0.0 appshelf.ttpsdk.info
+0.0.0.0 appspot-preview.l.google.com
+0.0.0.0 apptimize.com
+0.0.0.0 as1.abigames.com.vn
+0.0.0.0 asd.ssmobi.top
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 asp.animelab.com
+0.0.0.0 asset1.sponsorpay.com
+0.0.0.0 atdmt.com
+0.0.0.0 atedra.com
+0.0.0.0 atemda.com
+0.0.0.0 atlassbx.com
+0.0.0.0 atwola.com
+0.0.0.0 avocarrot.com
+0.0.0.0 awem.zendesk.com
+0.0.0.0 awempire.com
+0.0.0.0 balancer.devtodev.com
+0.0.0.0 bannerflow.com
+0.0.0.0 bbelements.com
+0.0.0.0 bbirdsv.xsf.ximxim.com
+0.0.0.0 bcfads.com
+0.0.0.0 bead-ad.com
+0.0.0.0 beap-bc.yahoo.com
+0.0.0.0 bebi.com
+0.0.0.0 bestmobileapps.mobi
+0.0.0.0 bidvertiser.com
+0.0.0.0 bigmath.vn
+0.0.0.0 billytesting.com
+0.0.0.0 bms.zeptolab.com
+0.0.0.0 bnmla.com
+0.0.0.0 bnserving.com
+0.0.0.0 boostads.site
+0.0.0.0 bounceexchange.com
+0.0.0.0 brightroll.com
+0.0.0.0 brightroll.de
+0.0.0.0 brucelead.com
+0.0.0.0 btrll.com
+0.0.0.0 buysellads.com
+0.0.0.0 buzzcity.net
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 c.bebi.com
+0.0.0.0 c.jsrdn.com
+0.0.0.0 carbonads.com
+0.0.0.0 carbonads.net
+0.0.0.0 castplatform.com
+0.0.0.0 cb-cdn.com
+0.0.0.0 cdn.applift.com
+0.0.0.0 cdn.media.amp.avai.com
+0.0.0.0 cdn.millennialmedia.com
+0.0.0.0 cdn.playwire.com
+0.0.0.0 cdn.video.playwire.com
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 chango.com
+0.0.0.0 chartboost.com
+0.0.0.0 chefkoch-einkaufsliste.firebaseapp.com
+0.0.0.0 chitika.net
+0.0.0.0 cj.com
+0.0.0.0 clickfuse.com
+0.0.0.0 clickmngr.com
+0.0.0.0 clickterra.net
+0.0.0.0 client-api.matchinguu.com
+0.0.0.0 client.rave-api.com
+0.0.0.0 clk1004.com
+0.0.0.0 clkdeals.com
+0.0.0.0 clkmon.com
+0.0.0.0 clkrev.com
+0.0.0.0 clmbtech.com
+0.0.0.0 cls.mireyn.ru
+0.0.0.0 cold-cold-freezing.com
+0.0.0.0 com.tenjin.ios.api
+0.0.0.0 combine.urbanairship.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 config.ioam.de
+0.0.0.0 connect.decknetwork.net
+0.0.0.0 connect.tapjoy.com
+0.0.0.0 content-ad.net
+0.0.0.0 content.ad
+0.0.0.0 contentabc.com
+0.0.0.0 control.smbeat.jp
+0.0.0.0 conversantmedia.com
+0.0.0.0 cp.pushwoosh.com
+0.0.0.0 cpmstar.com
+0.0.0.0 crashfevergbl.onelink.me
+0.0.0.0 crashlogs.whatsapp.net
+0.0.0.0 crashlytics.com
+0.0.0.0 criteo.com
+0.0.0.0 criteo.net
+0.0.0.0 crosspromo.zeptolab.com
+0.0.0.0 crwdcntrl.net
+0.0.0.0 cst.innogames.de
+0.0.0.0 cubecdn.net
+0.0.0.0 cw.addthis.com
+0.0.0.0 cxense.com
+0.0.0.0 cxpublic.com
+0.0.0.0 d.applvn.com
+0.0.0.0 damoh.spiegel.de
+0.0.0.0 data.flurry.com
+0.0.0.0 data.madovergames.com
+0.0.0.0 de.reimageplus.com
+0.0.0.0 de17a.com
+0.0.0.0 debug.aerserv.com
+0.0.0.0 delivery.brokerbabe.com
+0.0.0.0 delivery.trafficforce.com
+0.0.0.0 dev.appboy.com
+0.0.0.0 device-api.urbanairship.com
+0.0.0.0 device-provisioning.googleapis.com
+0.0.0.0 device.zhiliaoapp.com
+0.0.0.0 directrev.com
+0.0.0.0 dlski.space
+0.0.0.0 dotandad.com
+0.0.0.0 dotomi.com
+0.0.0.0 doubleciick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 doubleverify.com
+0.0.0.0 dra.amazon-adsystem.com
+0.0.0.0 drnxs.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 eacdn.com
+0.0.0.0 eclick.vn
+0.0.0.0 eclkmpsa.com
+0.0.0.0 ecpmrocks.com
+0.0.0.0 elb.qublixaws.com
+0.0.0.0 embedly.massrelevance.com
+0.0.0.0 emediate.dk
+0.0.0.0 emediate.eu
+0.0.0.0 emediate.se
+0.0.0.0 engine.a.redditmedia.com
+0.0.0.0 engine.fyber.com
+0.0.0.0 engine.mobileapptracking.com
+0.0.0.0 engine.voodoo-ads.io
+0.0.0.0 epom.com
+0.0.0.0 euc.adserver.snapads.com
+0.0.0.0 europacash.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 everestads.net
+0.0.0.0 exelator.com
+0.0.0.0 exoclick.com
+0.0.0.0 exponential.com
+0.0.0.0 eyewonder.com
+0.0.0.0 farmheroesmobile.king.com
+0.0.0.0 fastclick.net
+0.0.0.0 fdams.qublixaws.com
+0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 firstimpression.io
+0.0.0.0 flashtalking.com
+0.0.0.0 flipboard.com
+0.0.0.0 fus.yad2.co.il
+0.0.0.0 fusion.dn.se
+0.0.0.0 fwmrm.net
+0.0.0.0 fyber.com
+0.0.0.0 galaxyattack-de0bd.firebaseio.com
+0.0.0.0 gate.hockeyapp.net
+0.0.0.0 gce-sc.bidswitch.net
+0.0.0.0 gcs.sc-cdn.net
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 globaltraffico.com
+0.0.0.0 go.bebi.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 googletagservices.com
+0.0.0.0 graph.accountkit.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 greystripe.com
+0.0.0.0 growingtechapp.bid
+0.0.0.0 gsp-aeu004-se02.gamesparks.net
+0.0.0.0 gsp-aeu004-se06.gamesparks.net
+0.0.0.0 gsp-aeu004-se29.gamesparks.net
+0.0.0.0 gsp-aeu004-se30.gamesparks.net
+0.0.0.0 gsp-aeu004-se31.gamesparks.net
+0.0.0.0 gumgum.com
+0.0.0.0 h2.msn.com
+0.0.0.0 heise.nuggad.net
+0.0.0.0 heyzap.com
+0.0.0.0 hkg1.aastocks.com
+0.0.0.0 hockeyapp.net
+0.0.0.0 holder.com.ua
+0.0.0.0 hot-mob.com
+0.0.0.0 hotwords.com
+0.0.0.0 houseads.ttpsdk.info
+0.0.0.0 housextriertst.bid
+0.0.0.0 i-stream.pl
+0.0.0.0 i.singular.net
+0.0.0.0 i.w.inmobi.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 iconpeak.com
+0.0.0.0 id.google.de
+0.0.0.0 idiagnostics.apple.com
+0.0.0.0 idiagnostics.apple.com.akadns.net
+0.0.0.0 igp06.gameloft.com
+0.0.0.0 igpiphone.gameloft.com
+0.0.0.0 image.click.livedoor.com
+0.0.0.0 imedia.cz
+0.0.0.0 img.onesignal.com
+0.0.0.0 impressions.api.miyuki.mobi
+0.0.0.0 info.a7.org
+0.0.0.0 infolinks.com
+0.0.0.0 ingameads.gameloft.com
+0.0.0.0 inmobi.com
+0.0.0.0 inmobicdn.com
+0.0.0.0 inmobicdn.net
+0.0.0.0 inner-active.com
+0.0.0.0 inner-active.mobi
+0.0.0.0 innovid.com
+0.0.0.0 insightexpressai.com
+0.0.0.0 integral-marketing.com
+0.0.0.0 intellitxt.com
+0.0.0.0 intermarkets.net
+0.0.0.0 interseek.si
+0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 js.stripe.com
+0.0.0.0 juicyads.com
+0.0.0.0 kau.li
+0.0.0.0 ketads.com
+0.0.0.0 ketchapp.org
+0.0.0.0 keywordblocks.com
+0.0.0.0 kid-control.com
+0.0.0.0 kiip.me
+0.0.0.0 kimia.es
+0.0.0.0 kixer.com
+0.0.0.0 kochava.com
+0.0.0.0 komoona.com
+0.0.0.0 lduhtrp.net
+0.0.0.0 leadbolt.com
+0.0.0.0 leadbolt.net
+0.0.0.0 leadboltapps.net
+0.0.0.0 leadzu.com
+0.0.0.0 leanplum.com
+0.0.0.0 lfstmedia.com
+0.0.0.0 liftoff.io
+0.0.0.0 ligatus.com
+0.0.0.0 lijit.com
+0.0.0.0 live.chartboost.com
+0.0.0.0 live.direct.ly
+0.0.0.0 liveadexchanger.com
+0.0.0.0 liveintent.com
+0.0.0.0 liveops-prod-us-east-1-cdn.coem.aps-awemprod2.com
+0.0.0.0 liveops.coem-ages.com
+0.0.0.0 liverail.com
+0.0.0.0 lockerdome.com
+0.0.0.0 log.musical.ly
+0.0.0.0 logs.locarta.co
+0.0.0.0 lps.innogames.com
+0.0.0.0 lps.innogamescdn.com
+0.0.0.0 m.quantcount.com
+0.0.0.0 m.stripe.com
+0.0.0.0 m.stripe.network
+0.0.0.0 m2pub.com
+0.0.0.0 mads.com
+0.0.0.0 madsone.com
+0.0.0.0 madvertise.de
+0.0.0.0 manage.com
+0.0.0.0 marktools.awem.com
+0.0.0.0 marsads.com
+0.0.0.0 massrelevance.com
+0.0.0.0 matchinguu.com
+0.0.0.0 mbe-cdn.fyber.com
+0.0.0.0 mdotm.com
+0.0.0.0 med.heyzap.com
+0.0.0.0 media-api.maio.jp
+0.0.0.0 media.net
+0.0.0.0 medialets.com
+0.0.0.0 medialytics.com
+0.0.0.0 mediaplex.com
+0.0.0.0 medyanetads.com
+0.0.0.0 mellowads.com
+0.0.0.0 mgid.com
+0.0.0.0 misterbell.com
+0.0.0.0 mng-ads.com
+0.0.0.0 moatads.com
+0.0.0.0 mob-server.com
+0.0.0.0 mobclix.com
+0.0.0.0 mobfox.com
+0.0.0.0 mobile.aws.weather.com
+0.0.0.0 mobile.bet365.com
+0.0.0.0 mobileapptracking.com
+0.0.0.0 mobilefuse.com
+0.0.0.0 mobilefuse.net
+0.0.0.0 mobiletheory.com
+0.0.0.0 mobiright.com
+0.0.0.0 mobusi.com
+0.0.0.0 mobytrks.com
+0.0.0.0 mocean.mobi
+0.0.0.0 mojiva.com
+0.0.0.0 mopub.com
+0.0.0.0 movad.de
+0.0.0.0 movi11.com
+0.0.0.0 mparticle.com
+0.0.0.0 mpnrs.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 ms.applvn.com
+0.0.0.0 msads.net
+0.0.0.0 mtburn.com
+0.0.0.0 mydas.mobi
+0.0.0.0 n208adserv.com
+0.0.0.0 nexage.com
+0.0.0.0 nkkl.adj.st
+0.0.0.0 nspmotion.com
+0.0.0.0 nuggad.net
+0.0.0.0 om.forgeofempires.com
+0.0.0.0 omax.admarvel.com
+0.0.0.0 omniture.com
+0.0.0.0 onclasrv.com
+0.0.0.0 onclickads.net
+0.0.0.0 onclkds.com
+0.0.0.0 onesignal.com
+0.0.0.0 openclick.com
+0.0.0.0 openvideoads.com
+0.0.0.0 openvideoads.org
+0.0.0.0 openx.com
+0.0.0.0 openx.jp
+0.0.0.0 openx.net
+0.0.0.0 openx.org
+0.0.0.0 openxenterprise.com
+0.0.0.0 openxmarket.jp
+0.0.0.0 opt.ximad.com
+0.0.0.0 ordickywarive.bid
+0.0.0.0 otherlevels.com
+0.0.0.0 ox-d.advanceweb.com
+0.0.0.0 ox-d.majorgeeks.com
+0.0.0.0 padsdel.com
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead3.googlesyndication.com
+0.0.0.0 performancehorizon.com
+0.0.0.0 pflexads.com
+0.0.0.0 pixels.asia
+0.0.0.0 platform.massrelevance.com
+0.0.0.0 player.glomex.com
+0.0.0.0 playhaven.com
+0.0.0.0 playnomics.net
+0.0.0.0 plista.com
+0.0.0.0 policy.bigfishgames.com
+0.0.0.0 popads.net
+0.0.0.0 popadscdn.net
+0.0.0.0 postback.pointwise.co
+0.0.0.0 postrelease.com
+0.0.0.0 potterheadunited.com
+0.0.0.0 powerad.ai
+0.0.0.0 print.theyeshivaworld.info
+0.0.0.0 projectwonderful.com
+0.0.0.0 promo.webpayments.closeby.internet.apps.samsung.com
+0.0.0.0 propellerads.com
+0.0.0.0 propellerpops.com
+0.0.0.0 pub.sapo.pt
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 pubdirecte.com
+0.0.0.0 pubmatic.com
+0.0.0.0 pushnative.com
+0.0.0.0 pushwoosh.com
+0.0.0.0 q4mn.adj.st
+0.0.0.0 quantcount.com
+0.0.0.0 questionmarket.com
+0.0.0.0 rad.msn.com
+0.0.0.0 rarenok.biz
+0.0.0.0 readserver.net
+0.0.0.0 redintelligence.net
+0.0.0.0 redir.bebi.com
+0.0.0.0 redirectnative.com
+0.0.0.0 redtram.com
+0.0.0.0 reklamport.com
+0.0.0.0 reporo.net
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 revcontent.com
+0.0.0.0 revmob.com
+0.0.0.0 revsci.net
+0.0.0.0 rewarded-video.fyber.com
+0.0.0.0 rink.hockeyapp.net
+0.0.0.0 rnmd.net
+0.0.0.0 rt.360dialog.io
+0.0.0.0 rt.applovin.com
+0.0.0.0 rtbpop.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 s-usc1c-nss-223.firebaseio.com
+0.0.0.0 s-usc1c-nss-233.firebaseio.com
+0.0.0.0 s-usc1c-nss-249.firebaseio.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s1.2mdn.net
+0.0.0.0 s7.addthis.com
+0.0.0.0 s8.kid-control.com
+0.0.0.0 sa.entireweb.com
+0.0.0.0 sbs-ad.com
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 scanscout.com
+0.0.0.0 sdk-configuration.gimbal.com
+0.0.0.0 sdk.hockeyapp.net
+0.0.0.0 sdktm.w.inmobi.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 sejs.moatads.com
+0.0.0.0 sekindo.com
+0.0.0.0 servedbyopenx.com
+0.0.0.0 service.fyber.com
+0.0.0.0 service.game-mode.net
+0.0.0.0 services.coem.awem.com
+0.0.0.0 servicesupport.hicloud.com
+0.0.0.0 serving-sys.com
+0.0.0.0 setting.adzcore.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 sharethrough.com
+0.0.0.0 simonscatpoptime.tactilews.com
+0.0.0.0 smaato.com
+0.0.0.0 smaato.net
+0.0.0.0 smartadserver.com
+0.0.0.0 smartclip.net
+0.0.0.0 snapmobile.asia
+0.0.0.0 soundwave.mobile.yahoo.com
+0.0.0.0 spaceshooter.rocketstudio.com.vn
+0.0.0.0 sponsorpay.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 st.bebi.com
+0.0.0.0 startapp.com
+0.0.0.0 startappexchange.com
+0.0.0.0 startappservice.com
+0.0.0.0 statgw.devtodev.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 stats.appwork.org
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 stats.gc.apple.com
+0.0.0.0 stjjp.msn.com
+0.0.0.0 stripensrq.global.ssl.fastly.net
+0.0.0.0 supersonicads-a.akamaihd.net
+0.0.0.0 supersonicads.com
+0.0.0.0 support.awem.com
+0.0.0.0 swrve.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 taboola.com
+0.0.0.0 taboolasyndication.com
+0.0.0.0 tapjoy.com
+0.0.0.0 tapjoyads.com
+0.0.0.0 teads.tv
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 terraclicks.com
+0.0.0.0 test-ads.tapdaq.com
+0.0.0.0 test-awem-com.s3-website-us-east-1.amazonaws.com
+0.0.0.0 thekingofmobapp.bid
+0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
+0.0.0.0 tom.itv.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 track.barcoo.com
+0.0.0.0 tracker.fyber.com
+0.0.0.0 trackers.voodoo-analytics.io
+0.0.0.0 tracking.adspreemedia.com
+0.0.0.0 tracking.i2w.io
+0.0.0.0 tradeadexchange.com
+0.0.0.0 tradedoubler.com
+0.0.0.0 trafficfactory.biz
+0.0.0.0 trafficgate.net
+0.0.0.0 traffichaus.com
+0.0.0.0 trafficjunky.com
+0.0.0.0 trafficjunky.net
+0.0.0.0 trafficposse.com
+0.0.0.0 traffpartners.com
+0.0.0.0 trafmag.com
+0.0.0.0 transpera.com
+0.0.0.0 trck.bebi.com
+0.0.0.0 tremorhub.com
+0.0.0.0 tremormedia.com
+0.0.0.0 tribalfusion.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 turn.com
+0.0.0.0 uauniverse.com
+0.0.0.0 ucweb.com
+0.0.0.0 udc.msn.com
+0.0.0.0 uimserv.net
+0.0.0.0 ultraadserver.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 untd.com
+0.0.0.0 uop.umeng.com
+0.0.0.0 upsight-api.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 user-agent-tracker.herokuapp.com
+0.0.0.0 utraffic.engine.adglare.net
+0.0.0.0 valuecommerce.com
+0.0.0.0 vaxadserver.azurewebsites.net
+0.0.0.0 vdopia.com
+0.0.0.0 veeseo.com
+0.0.0.0 video.fyber.com
+0.0.0.0 videoads-cloud.rovio.com
+0.0.0.0 videoplaza.com
+0.0.0.0 videoplaza.tv
+0.0.0.0 view-prod.ad.singular.net
+0.0.0.0 view.adjust.com
+0.0.0.0 vserv.mobi
+0.0.0.0 vungle.com
+0.0.0.0 wafmedia3.com
+0.0.0.0 wafmedia5.com
+0.0.0.0 wbdds.jeuxvideo.com
+0.0.0.0 wd.adcolony.com
+0.0.0.0 weblockapp.com
+0.0.0.0 widespace.com
+0.0.0.0 wigetmedia.com
+0.0.0.0 ws-dot-web94p.appspot.com
+0.0.0.0 ws.tapjoyads.com
+0.0.0.0 wsback-apps.presage.io
+0.0.0.0 www.alphonso.tv
+0.0.0.0 www.bebi.com
+0.0.0.0 www.bestmobileapps.mobi
+0.0.0.0 www.fqtag.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.leanplum.com
+0.0.0.0 www.onclickclear.com
+0.0.0.0 www.smbeat.jp
+0.0.0.0 wwwpromoter.com
+0.0.0.0 wywy.com
+0.0.0.0 ximad.com
+0.0.0.0 xml.boffoads.com
+0.0.0.0 xpromo-cdn.qublixaws.com
+0.0.0.0 xtendmedia.com
+0.0.0.0 yen.appsfire.net
+0.0.0.0 yieldmanager.com
+0.0.0.0 yieldmo.com
+0.0.0.0 yoc.mobi
+0.0.0.0 yumenetworks.com
+0.0.0.0 z.moatads.com
+0.0.0.0 zedo.com
+0.0.0.0 zestads.com
+0.0.0.0 zestadz.com
+0.0.0.0 ziiporn.com
+0.0.0.0 zucks.co.jp
+0.0.0.0 zucks.net
+0.0.0.0 zumobi.com
+0.0.0.0 zwaar.org
+0.0.0.0 service.miyuki.mobi
+0.0.0.0 console.miyuki.mobi
+0.0.0.0 sdk.hockeyapp.net
+0.0.0.0 www.360dialog.com
+0.0.0.0 rt.360dialog.io
+0.0.0.0 collect.tealiumiq.com
+0.0.0.0 datacloud.tealiumiq.com
+0.0.0.0 my.tealiumiq.com
+0.0.0.0 w.usabilla.com
+0.0.0.0 www.mobilekeyservice.com
+0.0.0.0 app-measurement.com
+0.0.0.0 my.mobfox.com
+0.0.0.0 alogs.starbolt.io
+0.0.0.0 alkutbay.starbolt.io
+0.0.0.0 alkutbay.starbolt.io
+0.0.0.0 sdk.starbolt.io
+0.0.0.0 sdk.starbolt.io
+0.0.0.0 static.starbolt.io
+0.0.0.0 static.starbolt.io
+0.0.0.0 dm.starbolt.io
+0.0.0.0 dm.starbolt.io
+0.0.0.0 z.moatads.com
+0.0.0.0 tracker.mtrtb.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 config.inmobi.cn
+0.0.0.0 dock.inmobi.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 www.inmobi.com
+0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 sdktm.w.inmobi.com
+0.0.0.0 crash-metrics.sdk.inmobi.com
+0.0.0.0 i.l.inmobidnc.net
+0.0.0.0 i.w.inmobi.com
+0.0.0.0 inmobi.com
+0.0.0.0 tml.clmbtech.com
+0.0.0.0 ade.clmbtech.com
+0.0.0.0 ase.clmbtech.com
+0.0.0.0 edgekey.net
+0.0.0.0 bugsnag.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 www.measurementlab.net
+0.0.0.0 user.gini.net
+0.0.0.0 sizchip.siz.de
+0.0.0.0 sex-and-flirt.com
+0.0.0.0 redshell.io
+0.0.0.0 api.redshell.io
+0.0.0.0 treasuredata.com
+0.0.0.0 api.treasuredata.com
+0.0.0.0 
+0.0.0.0 
